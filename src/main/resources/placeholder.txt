@@ -1,0 +1,1 @@
+Utilizzo la properties personalizzata ${properties.personalizzata} sul progetto ${project.name} versione ${project.version}
